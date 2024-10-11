@@ -32,4 +32,4 @@ To run the code, follow these steps:
 3. Run the Python file boolean.py and test the functions with a sample 2-CNF formula.
 
 ```bash
-python boolean.py
+boolean.py
